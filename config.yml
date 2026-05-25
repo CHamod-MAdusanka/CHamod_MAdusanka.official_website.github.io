@@ -79,9 +79,9 @@ params:
         - name: CV
           url: cv.pdf
         - name: Email
-          url: mailto:user@gmail.com
-        - name: Zoom
-          url: https://www.zoom.us/my/user
+          url: mailto:madusankac965@gmail.com
+        - name: Linkedin
+          url: https://www.linkedin.com/in/madusankac965
         - name: Location
           url: location/
         - name: Office Hours
